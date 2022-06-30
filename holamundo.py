@@ -1,6 +1,4 @@
-#saludo = "Hola Mundo"
-#print(saludo)
-
+print("Ingresa tu nombre")
 saludo = "Hola"
-nombre = "Luis"
+nombre = input()
 print(saludo +" "+ nombre)
