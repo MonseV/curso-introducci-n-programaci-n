@@ -1,3 +1,5 @@
+#Mientras se cumpla una condicion o que la instrucción sea verdadera
+
 rep = 1
 while rep <= 3:
   print("mensaje")
